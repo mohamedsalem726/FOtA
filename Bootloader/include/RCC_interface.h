@@ -242,3 +242,4 @@ void MRCC_voidEnablePeripheralClock ( u8 Copy_u8PeripheralBus  , u8 Copy_u8Perip
 void MRCC_voidDisablePeripheralClock( u8 Copy_u8PeripheralBus  , u8 Copy_u8Peripheral );
 
 #endif
+
